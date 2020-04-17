@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+div {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 10px;
+	text-align: center;
+}
+label {
+	margin-bottom: 10px;
+}
+
+button {
+	color: black;
+	padding: 5px 10px;
+	border-radius: 3px;
+	border: 1px solid #333;
+	background: white;
+}
